@@ -1,5 +1,5 @@
 ---
-widget: github.etjernst.about-resize-avatar
+widget: github.etjernst.about-no-icons
 active: true
 author: admin
 widget_id: about
