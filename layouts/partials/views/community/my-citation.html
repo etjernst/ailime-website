@@ -15,7 +15,7 @@
   </span>
   ({{- $item.Date.Format "2006" -}}).
   {{/* Dynamic view adjusts to content type. */}}
-  {{/* <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>. */ }}
+  {{/* <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>. */}}
 
   {{ if $item.Params.publication_short }}
     {{- $item.Params.publication_short | markdownify -}}.
