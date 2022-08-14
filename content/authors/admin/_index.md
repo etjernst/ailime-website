@@ -7,7 +7,7 @@ bio: I am a Senior Research Fellow at Monash University's Centre for Development
 interests: []
 social:
   - icon: experimental-twitter-laces
-    icon_pack: fab
+    icon_pack: custom
     link: https://twitter.com/etjernst
   - icon: graduation-cap
     icon_pack: fas
