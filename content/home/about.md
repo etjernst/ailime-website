@@ -9,6 +9,6 @@ title: G'day!
 design:
   background:
     color: 'white'
-  columns: "2"
+  columns: "1"
 ---
 Text here and here and so on
