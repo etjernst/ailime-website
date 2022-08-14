@@ -8,7 +8,7 @@ weight: 20
 title: About me
 design:
   background:
-    color: 'navy'
+    color: 'white'
   columns: "2"
 ---
 Text here and here and so on
