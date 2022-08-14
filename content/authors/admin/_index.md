@@ -6,9 +6,9 @@ bio: I am a Senior Research Fellow at Monash University's Centre for Development
   Economics and Sustainability
 interests: []
 social:
-  - icon: envelope
+  <!-- - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: /#contact -->
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/etjernst
