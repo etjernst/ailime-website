@@ -8,7 +8,7 @@ weight: 20
 title: About me
 design:
   background:
-    image: profile.png
+    color:navy
   columns: "2"
 ---
 Text here
