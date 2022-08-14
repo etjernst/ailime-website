@@ -4,7 +4,7 @@ active: true
 author: admin
 widget_id: about
 headless: true
-weight: 20
+weight: 1
 title: G'day!
 design:
   background:
