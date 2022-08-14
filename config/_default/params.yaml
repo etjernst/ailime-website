@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Emilia. This work is licensed under {license}. <a target="_blank" href="https://icons8.com/icon/BCThU2Jgj1TF/twitter">Twitter icon</a> by <a target="_blank" href="https://icons8.com">Icons8</a>'
     license:
       enable: true
       allow_derivatives: true
