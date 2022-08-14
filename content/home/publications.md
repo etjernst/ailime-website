@@ -3,7 +3,7 @@ widget: pages
 widget_id: recent-pubs
 headless: true
 weight: 90
-title: Recent Publications
+title: Publications
 subtitle: ""
 content:
   filters:
