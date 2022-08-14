@@ -2,7 +2,7 @@
 widget: pages
 widget_id: recent-pubs
 headless: true
-weight: 90
+weight: 10
 title: Publications
 subtitle: '[**Working papers** below :point_down:](#working_papers)'
 citation_style: apa
