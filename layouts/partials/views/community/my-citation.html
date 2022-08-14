@@ -11,16 +11,17 @@
   </div>
   <span class="article-metadata li-cite-author">
     <b>{{- $item.Date.Format "2006" -}}</b>
-    {{ :white_small_square: }}
+    {{ " | " }}
     {{ partial "page_metadata_authors" $item }}
   </span>
   {{/* Dynamic view adjusts to content type. */}}
   {{/* <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>. */}}
-
   {{ if $item.Params.publication_short }}
+    {{ " | " }}
     {{- $item.Params.publication_short | markdownify -}}.
   {{ else if $item.Params.publication }}
-    {{- $item.Params.publication | markdownify -}}.
+    {{ " | " }}
+    {{- $item.Params.publication | markdownify -}}
   {{ end }}
   <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p>
 
