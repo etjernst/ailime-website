@@ -10,7 +10,8 @@
     {{ $item.Title }}
   </div>
   <span class="article-metadata li-cite-author">
-    {{- $item.Date.Format "2006" -}}
+    <b>{{- $item.Date.Format "2006" -}}</b>
+    {{ " | " }}
     {{ partial "page_metadata_authors" $item }}
   </span>
   {{/* Dynamic view adjusts to content type. */}}
