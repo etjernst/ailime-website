@@ -20,6 +20,6 @@ content:
   offset: 0
   order: desc
 design:
-  view: my-compact
+  view: community/my-compact
   columns: "2"
 ---
