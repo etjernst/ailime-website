@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: github.etjernst.about-resize-avatar
 active: true
 author: admin
 widget_id: about
@@ -11,4 +11,4 @@ design:
     color: 'navy'
   columns: "2"
 ---
-Text here
+Text here and here and so on
