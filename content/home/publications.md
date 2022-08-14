@@ -5,7 +5,7 @@ headless: true
 weight: 90
 title: Publications
 subtitle: ""
-citation_style: my-style
+citation_style: apa
 content:
   filters:
     folders:
