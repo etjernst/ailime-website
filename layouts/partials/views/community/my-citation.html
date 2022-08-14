@@ -2,14 +2,13 @@
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
+  {{/* <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>*/}}
 
   {{/* APA Style */}}
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
-  <p>
+  <div class="section-subheading article-title mb-0 mt-0">
     {{ $item.Title }}
-  </p>
+  </div>
   <span class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors" $item }}
   </span>
