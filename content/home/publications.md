@@ -20,6 +20,6 @@ content:
   offset: 0
   order: desc
 design:
-  view: community/my-compact
+  view: community/my-citation
   columns: "2"
 ---
