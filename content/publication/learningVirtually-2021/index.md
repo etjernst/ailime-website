@@ -1,6 +1,6 @@
 ---
 title: "Learning by (virtually) doing: Experimentation and belief updating in smallholder agriculture"
-date: 2021
+date: 2021-09-01
 authors: ["Emilia Tjernström", "Travis J. Lybbert", "Rachel Frattarola Hernández", "Juan Sebastian Correa"]
 publication_types: ["2"]
 abstract: "<details><summary>Abstract</summary>
