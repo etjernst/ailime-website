@@ -10,11 +10,13 @@ featured: false
 publication: "*Stata Journal*"
 tags: ["my_pubs", "peer_reviewed"]
 
+external_link: 'https://www.stata-journal.com/article.html?article=st0517'
+
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://www.stata-journal.com/article.html?article=st0517'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
