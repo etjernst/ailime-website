@@ -1,7 +1,6 @@
 ---
 title: "Fitting and Interpreting Correlated Random Coefficient (CRC) Models Using Stata"
 date: 2018-01-01
-publishDate: 2020-07-27T01:35:13.089983Z
 authors: ["Oscar Barriga Cabanillas", "Jeffrey D. Michler", "Aleksandr Michuda", "Emilia Tjernström"]
 publication_types: ["2"]
 abstract: "
@@ -10,6 +9,15 @@ abstract: "
 featured: false
 publication: "*Stata Journal*"
 tags: ["my_pubs", "peer_reviewed"]
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: 'https://www.stata-journal.com/article.html?article=st0517'
+url_slides: ''
+url_source: ''
+url_video: ''
 
 links:
   - icon_pack: fas
