@@ -1,7 +1,7 @@
 ---
 title: Emilia Tjernström
 role: Senior Research Fellow
-avatar_filename: profile.png
+avatar_filename: avatar.png
 bio: I am a Senior Research Fellow at Monash University's Centre for Development
   Economics and Sustainability
 interests: []
