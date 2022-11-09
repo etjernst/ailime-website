@@ -22,12 +22,12 @@ name = "MyPrecious"
   # Menu
   # menu_primary = "#d9ccc3"
   # menu_text = "#414c57"
-  # menu_text_active = "#f77d05"
+  menu_text_active = "#f77d05"
   # menu_title = "#414c57"
 
   link = "#dfe1e2"
   link_hover = "#dfe1e2"
 
   # Home sections
-  home_section_odd = "#585858"
-  home_section_even = "#544646"
+  home_section_odd = "#353433"
+  home_section_even = "#55504a"

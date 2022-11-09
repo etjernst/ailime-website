@@ -48,7 +48,7 @@ advanced:
  # CSS class.
   css_class: ''
 ---
-More text here
+
 
 
 <!-- I received my B.A. in economics from Colby College (in 2006) and my M.S. and Ph.D. from the Department of Agricultural and Resource Economics at the University of California, Davis (in 2015)

@@ -23,4 +23,5 @@ content:
 design:
   view: community/my-citation
   columns: "2"
+
 ---

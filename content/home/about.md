@@ -1,5 +1,6 @@
 ---
-widget: github.etjernst.about-no-icons
+# widget: github.etjernst.about-no-icons
+widget: about
 active: true
 author: admin
 widget_id: about
@@ -9,5 +10,3 @@ title: G'day!
 design:
   columns: "1"
 ---
-
-Text here and here and so on
