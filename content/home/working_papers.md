@@ -61,24 +61,17 @@ advanced:
 ---
 
 ### {#1af}
-[Can Smallholder Extension Transform African Agriculture?](https://www.nber.org/papers/w26054)<br>
-_with Joshua Deutschmann, Maya Duru and Kim Siegal_ <br>
-NBER Working Paper No. 26054
+[Relaxing multiple agricultural productivity constraints at scale](static/uploads/DDST_2022.pdf)<br>
+A previous version circulated under the title [Can Smallholder Extension Transform African Agriculture?](https://www.nber.org/papers/w26054)<br>
+_with Joshua Deutschmann, Maya Duru and Kim Siegal_ (NBER Working Paper No. 26054)
 <br>
-Being revised
+Under review
 <details><summary>Abstract</summary>
-  Agricultural productivity in Sub-Saharan Africa lags behind all
-  other regions of the world. Decades of investment in agricultural research and extension have yielded more
-  evidence on what fails than on what works---especially for the small-scale producers
-  who dominate the sector.
-  We study a program that targets multiple constraints to productivity at   once,
-  similar to anti-poverty "graduation" interventions. Analyzing a randomized   controlled trial in western
-  Kenya, we find that participation causes statistically and economically
-  significant gains in output, yields, and profits. In our preferred
-  specification, the program increases maize production by 26% and profits by
-  16%. The program increases yields uniformly across the sample,
-  while treatment effects on total output and profit impacts are slightly
-  attenuated at the top end of the distribution.
+  No single constraint can explain the stagnant agricultural productivity growth in sub-Saharan Africa.
+    Most interventions that relax individual barriers to productivity have delivered disappointing results.
+    We evaluate an at-scale program that targets several productivity constraints with a bundled intervention, using a randomized controlled trial in western Kenya.
+    Program participation increases maize yields by 26%, total maize output by 24%, and profits by 17%.
+    While we cannot directly test whether the program's success is due to its bundled nature, we find patterns in the data that are consistent with this hypothesis.
   </details>
 
 ### {#media-motivation}
@@ -101,19 +94,15 @@ _with Ivan Balbuzanov and Jared Gars_
   </details>
 
 ### {#grc}
-[A Group Random Coefficient Approach to Modeling Heterogeneity in Technology Adoption](files/TGBLMM2020)<br>
+[Comment on Suri (2011) "Selection and Comparative Advantage in Technology Adoption": A Group Random Coefficient Alternative with Weak-Identification Robust Inference](static/uploads/TGBLMM_2022)<br>
 _with Oscar Barriga Cabanillas, Dalia Ghanem, Travis Lybbert, Jeffrey D. Michler, and Aleksander Michuda_
   <details><summary>Abstract</summary>
-  Our paper revisits the econometric model that Suri (2011) (S2011) used in her study of heterogeneous returns to agricultural technology adoption. We propose an alternative group random coefficient (GRC) estimation strategy and revisit the empirical puzzle of why relatively
-  few sub-Saharan farmers adopt modern technologies. Drawing on recent developments in the
-  nonparametric panel identification literature, we start with an unrestricted GRC model that
-  nonparametrically identifies the returns to adoption under time homogeneity. We show that the
-  parameters of the S2011 correlated random coefficient model (CRC) can be identified from a
-  restricted version of the GRC method. Specifically, the model in S2011 implies a key restriction
-  that we call linearity in comparative advantage (LCA). Our unrestricted GRC model can be
-  used to detect identification concerns for key structural parameters from the CRC model. We
-  illustrate our method using the same data set as the original study andnd that the motivating
-  empirical puzzle remains unsolved.
+  Our paper illustrates and addresses identification concerns in the correlated random coefficient (CRC) model that Suri (2011) uses to study agricultural technology adoption.
+	Using the publicly available version of the same data, we are unable to replicate the main CRC model results in Suri (2011).
+	To understand why, we recast the CRC model as a more general random-coefficient model in which the returns to hybrid adoption are restricted to be linear in comparative advantage.
+	This reveals that the key structural parameter, $\phi$, is prone to a weak identification problem.
+	We then propose a procedure to conduct weak-identification robust inference on $\phi$ using test inversion.
+	Only with this robust procedure to account for weak identification are we able to replicate the original Suri (2011) results.
   </details>
 
 ### {#networks}
