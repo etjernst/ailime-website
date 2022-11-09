@@ -60,11 +60,6 @@ advanced:
   css_class: ''
 ---
 
-I hope I don't need to do This
-
-{{% staticref "uploads/DDST_2022.pdf" "newtab" %}}1AF PAPER{{% /staticref %}}
-
-
 ### {#1af}
 [Relaxing multiple agricultural productivity constraints at scale](uploads/DDST_2022.pdf)<br>
 A previous version circulated under the title [Can Smallholder Extension Transform African Agriculture?](https://www.nber.org/papers/w26054)<br>
@@ -99,7 +94,7 @@ _with Ivan Balbuzanov and Jared Gars_
   </details>
 
 ### {#grc}
-[Comment on Suri (2011) "Selection and Comparative Advantage in Technology Adoption": A Group Random Coefficient Alternative with Weak-Identification Robust Inference](uploads/TGBLMM_2022)<br>
+[Comment on Suri (2011) "Selection and Comparative Advantage in Technology Adoption": A Group Random Coefficient Alternative with Weak-Identification Robust Inference](uploads/TGBLMM_2022.pdf)<br>
 _with Oscar Barriga Cabanillas, Dalia Ghanem, Travis Lybbert, Jeffrey D. Michler, and Aleksander Michuda_
   <details><summary>Abstract</summary>
   Our paper illustrates and addresses identification concerns in the correlated random coefficient (CRC) model that Suri (2011) uses to study agricultural technology adoption.
