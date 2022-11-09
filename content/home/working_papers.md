@@ -61,7 +61,7 @@ advanced:
 ---
 
 ### {#1af}
-[Relaxing multiple agricultural productivity constraints at scale](uploads/DDST_2022.pdf)<br>
+### [Relaxing multiple agricultural productivity constraints at scale](uploads/DDST_2022.pdf)<br>
 A previous version circulated under the title [Can Smallholder Extension Transform African Agriculture?](https://www.nber.org/papers/w26054)<br>
 _with Joshua Deutschmann, Maya Duru and Kim Siegal_ (NBER Working Paper No. 26054)
 <br>
@@ -75,7 +75,7 @@ Under review
   </details>
 
 ### {#media-motivation}
-[Media and Motivation: the Effect of Performance Pay on Writers and Content](uploads/BGT2020.pdf)<br>
+### [Media and Motivation: the Effect of Performance Pay on Writers and Content](uploads/BGT2020.pdf)<br>
 _with Ivan Balbuzanov and Jared Gars_
   <details><summary>Abstract</summary>
   We study how incentives for journalists affect the quantity, quality, and composition of online
@@ -93,8 +93,7 @@ _with Ivan Balbuzanov and Jared Gars_
   for journalists' effort and content choices, and more broadly for selection into risky "gig work."
   </details>
 
-### {#grc}
-[Comment on Suri (2011) "Selection and Comparative Advantage in Technology Adoption": A Group Random Coefficient Alternative with Weak-Identification Robust Inference](uploads/TGBLMM_2022.pdf)<br>
+### {#grc} [Comment on Suri (2011) "Selection and Comparative Advantage in Technology Adoption": A Group Random Coefficient Alternative with Weak-Identification Robust Inference](uploads/TGBLMM_2022.pdf)<br>
 _with Oscar Barriga Cabanillas, Dalia Ghanem, Travis Lybbert, Jeffrey D. Michler, and Aleksander Michuda_
   <details><summary>Abstract</summary>
   Our paper illustrates and addresses identification concerns in the correlated random coefficient (CRC) model that Suri (2011) uses to study agricultural technology adoption.
