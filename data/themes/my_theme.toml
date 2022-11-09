@@ -7,9 +7,9 @@ name = "MyPrecious"
 
   # Menu
   menu_primary = "#d9ccc3"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
+  menu_text = "#414c57"
+  menu_text_active = "#f77d05"
+  menu_title = "#414c57"
 
   # Home sections
   home_section_odd = "#f9f7f6"
@@ -19,6 +19,12 @@ name = "MyPrecious"
   # Primary
   primary = "#bbdefb"
 
+  # Menu
+  menu_primary = "#d9ccc3"
+  menu_text = "#414c57"
+  menu_text_active = "#f77d05"
+  menu_title = "#414c57"
+  
   link = "#f6eee9"
   link_hover = "#f5ccb2"
 

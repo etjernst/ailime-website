@@ -42,8 +42,8 @@ design:
   #  color: '#F2E9E4'
 
   # Background gradient.
-    gradient_start: "#F2E9E4"
-    gradient_end: "#C9ADA780"
+  #  gradient_start: "#F2E9E4"
+  #  gradient_end: "#C9ADA780"
 
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
